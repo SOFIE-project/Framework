@@ -1,6 +1,6 @@
 SOFIE Framework
 
-The SOFIE Framework is an example implementation of the SOFIE Federation Architecture developed by the [SOFIE Project](https://www.sofie-iot.eu). The Framework consists of 6 components and federation adapters are used to link IoT resources to the Framework:
+The SOFIE Framework is an example implementation of the SOFIE Federation Architecture developed by the [SOFIE Project](https://www.sofie-iot.eu). The Framework consists of 6 components:
 
 * [Interledger](https://github.com/SOFIE-project/Interledger), which provides support for operations spanning two or more ledgers.
 
@@ -14,7 +14,7 @@ The SOFIE Framework is an example implementation of the SOFIE Federation Archite
 
 * [Discovery & provisioning](https://github.com/SOFIE-project/Discovery-and-Provisioning), which provides functionality for the discovery and bootstrapping of IoT devices, services, and data.
 
-* [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT resources to the SOFIE Framework without requiring any changes to the resources themselves.
+Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT resources to the SOFIE Framework without requiring any changes to the resources themselves.
 
 The SOFIE framework is licensed under Apache License 2.0.
 
