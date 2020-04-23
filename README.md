@@ -1,4 +1,4 @@
-SOFIE Framework
+# SOFIE Framework
 
 The SOFIE Framework is an example implementation of the SOFIE Federation Architecture developed by the [SOFIE Project](https://www.sofie-iot.eu). The Framework consists of 6 components:
 
