@@ -22,4 +22,4 @@ More information about the SOFIE framework can be found in the [SOFIE deliverabl
 
 For contact information, please check repositories of framework components listed above.
 
-
+If you found the Framework useful or you have any question or comments about the Framework as a whole, please, drop us a message at framework@sofie-iot.eu!
