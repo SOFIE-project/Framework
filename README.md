@@ -12,7 +12,7 @@ The SOFIE Framework is an example implementation of the SOFIE Federation Archite
 
 * [Marketplace](https://github.com/SOFIE-project/Marketplace), which allows participants to trade resources by placing bids and offers in a secure, auditable, and decentralised way.
 
-* [Discovery & provisioning](https://github.com/SOFIE-project/Discovery-and-Provisioning), which provides functionality for the discovery and bootstrapping of IoT devices, services, and data.
+* [Provisioning and Discovery](https://github.com/SOFIE-project/Discovery-and-Provisioning), which provides functionality for the discovery and bootstrapping of IoT devices, services, and data.
 
 Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT resources to the SOFIE Framework without requiring any changes to the resources themselves.
 
