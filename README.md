@@ -18,7 +18,7 @@ The SOFIE Framework is an example implementation of the SOFIE Federation Archite
 
 The following example show the components can be utilised:
 * [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment) creates a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. It utilises *all Framework components*.
-* [Scavenger Hunt](https://github.com/SOFIE-project/MobileGamePilot) is a location-based game utilising BLE beacons.
+* [Scavenger Hunt](https://github.com/SOFIE-project/ScavengerHunt) is a location-based game utilising BLE beacons.
 
 More information about the SOFIE Framework can be found in the *SOFIE deliverable D2.7*, while the underlying Architecture is described in the *SOFIE Deliverable D2.6*. Both are available on the [SOFIE Deliverables page](https://www.sofie-iot.eu/results/project-deliverables).
 
