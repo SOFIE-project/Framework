@@ -18,7 +18,7 @@ Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapt
 
 The SOFIE framework is licensed under Apache License 2.0.
 
-More information about the SOFIE Framework can be found in the SOFIE deliverable D2.7, while the underlying architecture is described in the SOFIE Deliverable D2.6. Both are available on the [SOFIE Deliverables page](https://www.sofie-iot.eu/results/project-deliverables).
+More information about the SOFIE Framework can be found in the *SOFIE deliverable D2.7*, while the underlying Architecture is described in the *SOFIE Deliverable D2.6*. Both are available on the [SOFIE Deliverables page](https://www.sofie-iot.eu/results/project-deliverables).
 
 For contact information, please check repositories of framework components listed above.
 
