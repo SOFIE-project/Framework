@@ -1,6 +1,6 @@
 # SOFIE Framework
 
-The SOFIE Framework is an example implementation of the SOFIE Federation Architecture developed by the [SOFIE Project](https://www.sofie-iot.eu). The Framework consists of 6 components:
+The SOFIE Framework is an example implementation of the SOFIE Federation Architecture developed by the [SOFIE Project](https://www.sofie-iot.eu). The Framework consists of 6 components and federation adapters:
 
 * [Interledger](https://github.com/SOFIE-project/Interledger) supports secure federation by enabling atomic transactions spanning two or more ledgers, and multiple examples demonstrate how the component can be utilised for different types of application. Different ledger types including Ethereum and Hyperledger Fabric are already supported and new ones can be easily added.
 
@@ -14,7 +14,7 @@ The SOFIE Framework is an example implementation of the SOFIE Federation Archite
 
 * [Provisioning and Discovery](https://github.com/SOFIE-project/Discovery-and-Provisioning) manages the IoT resources in the system by provisioning the existing IoT devices to a working state and by enabling the discovery of new IoT resources along with their metadata.
 
-Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT systems to the SOFIE Framework without requiring any changes to the systems themselves.
+* Finally, IoT system specific [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect the IoT systems to the SOFIE Framework without requiring any changes to the systems themselves.
 
 The following example show the components can be utilised:
 * [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment) creates a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. It utilises *all Framework components*.
