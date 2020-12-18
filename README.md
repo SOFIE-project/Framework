@@ -18,7 +18,7 @@ Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapt
 
 The SOFIE framework is licensed under Apache License 2.0.
 
-For an example utilising all components take a look at the [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment), a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. 
+For an example utilising all components take a look at the [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment), a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. For another example using some of the components, take a look at [Scavenger Hunt](https://github.com/SOFIE-project/MobileGamePilot), a a location-based game utilising BLE beacons.
 
 More information about the SOFIE Framework can be found in the *SOFIE deliverable D2.7*, while the underlying Architecture is described in the *SOFIE Deliverable D2.6*. Both are available on the [SOFIE Deliverables page](https://www.sofie-iot.eu/results/project-deliverables).
 
