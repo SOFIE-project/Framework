@@ -16,7 +16,7 @@ The SOFIE Framework is an example implementation of the SOFIE Federation Archite
 
 * Finally, IoT system specific [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect the IoT systems to the SOFIE Framework without requiring any changes to the systems themselves.
 
-The following example show the components can be utilised:
+Individual component repositories contain examples of using that component, and the following example show multiple components can be jointly utilised:
 * [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment) creates a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. It utilises *all Framework components*.
 * [Scavenger Hunt](https://github.com/SOFIE-project/ScavengerHunt) is a location-based game utilising BLE beacons.
 
