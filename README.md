@@ -16,12 +16,10 @@ The SOFIE Framework is an example implementation of the SOFIE Federation Archite
 
 Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT systems to the SOFIE Framework without requiring any changes to the systems themselves.
 
-The SOFIE framework is licensed under Apache License 2.0.
-
-For an example utilising all components take a look at the [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment), a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. For another example using some of the components, take a look at [Scavenger Hunt](https://github.com/SOFIE-project/MobileGamePilot), a a location-based game utilising BLE beacons.
+The following example show the components can be utilised:
+* [Secure Marketplace for Access to Ubiquitous Goods (SMAUG)](https://github.com/SOFIE-project/SMAUG-Deployment) creates a decentralized and open marketplace where smart locker owners can put smart lockers for rent, and interested renters can purchase access to those smart lockers for limited amounts of time. It utilises *all Framework components*.
+* [Scavenger Hunt](https://github.com/SOFIE-project/MobileGamePilot) is a location-based game utilising BLE beacons.
 
 More information about the SOFIE Framework can be found in the *SOFIE deliverable D2.7*, while the underlying Architecture is described in the *SOFIE Deliverable D2.6*. Both are available on the [SOFIE Deliverables page](https://www.sofie-iot.eu/results/project-deliverables).
 
-For contact information, please check repositories of framework components listed above.
-
-For any issues with the Framework, please, use GitHub’s issue mechanism, and for any questions  any question or comments about the Framework as a whole, please, drop us a message at *framework (at) sofie-iot.eu*!
+The SOFIE framework is licensed under Apache License 2.0. For any issues with the Framework, please, use GitHub’s issue mechanism, and for any questions  any question or comments about the Framework as a whole, please, drop us a message at *framework (at) sofie-iot.eu*!
