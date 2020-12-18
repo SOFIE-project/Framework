@@ -2,24 +2,24 @@
 
 The SOFIE Framework is an example implementation of the SOFIE Federation Architecture developed by the [SOFIE Project](https://www.sofie-iot.eu). The Framework consists of 6 components:
 
-* [Interledger](https://github.com/SOFIE-project/Interledger), which provides support for operations spanning two or more ledgers.
+* [Interledger](https://github.com/SOFIE-project/Interledger) supports secure federation by enabling atomic transactions spanning two or more ledgers, and multiple examples demonstrate how the component can be utilised for different types of application. Different ledger types including Ethereum and Hyperledger Fabric are already supported and new ones can be easily added.
 
-* [Identity, Authentication and Authorisation](https://github.com/SOFIE-project/identity-authentication-authorization), which provides IAA functionalities for the different entities in the system by supporting multiple authentication and authorisation techniques.
+* [Identity, Authentication and Authorisation](https://github.com/SOFIE-project/identity-authentication-authorization) can be used to secure any HTTP-based resource: the component acts as an HTTP forward proxy and supports multiple access tokens including including Decentralized Identifiers (DIDs) and Verifiable Credentials (VCs), and JWT tokens.
 
-* [Privacy and Data Sovereignty](https://github.com/SOFIE-project/Privacy-and-Data-Sovereignty), which provides mechanisms that enable data sharing in a controlled and privacy preserving way.
+* [Privacy and Data Sovereignty](https://github.com/SOFIE-project/Privacy-and-Data-Sovereignty) extends OAuth 2.0 to support additional authorisation grants including DIDs and VCs and blockchain-based tokens. It also implements privacy preserving surveys using differential privacy.
 
-* [Semantic Representation](https://github.com/SOFIE-project/Semantic-Representation), which is used to enable interoperability between different IoT devices, services, and data by describing what functions they provide and what interfaces and formats they utilise.
+* [Semantic Representation](https://github.com/SOFIE-project/Semantic-Representation) enables interoperability between different IoT devices, services, and data by describing what functions they provide and what interfaces and formats they utilise. It supports defining and validating data models using JSON schemas and W3C WoT Thin Descriptions.
 
-* [Marketplace](https://github.com/SOFIE-project/Marketplace), which allows participants to trade resources by placing bids and offers in a secure, auditable, and decentralised way.
+* [Marketplace](https://github.com/SOFIE-project/Marketplace) allows participants to trade resources by placing bids and offers in a secure, auditable, and decentralised way. It supports different pricing models and covers the whole trade process from offer creation to payment and verification of receipt of the traded item.
 
-* [Provisioning and Discovery](https://github.com/SOFIE-project/Discovery-and-Provisioning), which provides functionality for the discovery and bootstrapping of IoT devices, services, and data.
+* [Provisioning and Discovery](https://github.com/SOFIE-project/Discovery-and-Provisioning) manages the IoT resources in the system by provisioning the existing IoT devices to a working state and by enabling the discovery of new IoT resources along with their metadata.
 
-Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT resources to the SOFIE Framework without requiring any changes to the resources themselves.
+Finally, [Federation Adapters](https://github.com/SOFIE-project/Federation-Adapters) connect IoT systems to the SOFIE Framework without requiring any changes to the systems themselves.
 
 The SOFIE framework is licensed under Apache License 2.0.
 
-More information about the SOFIE framework can be found in the [SOFIE deliverable D2.5](https://media.voog.com/0000/0042/0957/files/SOFIE_D2.5-Federation_Framework%2C_2nd_version.pdf), while the underlying architecture is described in the [SOFIE deliverable D2.4](https://media.voog.com/0000/0042/0957/files/SOFIE_D2.4-Federation_Architecture_2nd_version_v1.10.pdf).
+More information about the SOFIE Framework can be found in the SOFIE deliverable D2.7, while the underlying architecture is described in the SOFIE Deliverable D2.6. Both are available on the [SOFIE Deliverables page](https://www.sofie-iot.eu/results/project-deliverables).
 
 For contact information, please check repositories of framework components listed above.
 
-If you found the Framework useful or you have any question or comments about the Framework as a whole, please, drop us a message at framework@sofie-iot.eu!
+For any issues with the Framework, please, use GitHub’s issue mechanism, and for any questions  any question or comments about the Framework as a whole, please, drop us a message at *framework (at) sofie-iot.eu*!
